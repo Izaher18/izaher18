@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Ilias
 
+I'm a Junior at Boston University, currently studying Computer Science.
 
 ---
 
