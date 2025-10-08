@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Ilias
 
-<!--
-**Izaher18/izaher18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Languages and Tools
+
+![Languages](https://skillicons.dev/icons?i=js,react,html,css,python,java,go,ocaml&perline=8)
+
+---
+
+## 📊 GitHub Stats
+
+  <!--![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahemedb&show_icons=true&theme=dark&hide=stars,issues) -->
+  ![ahemedb's Streak](https://github-readme-streak-stats.herokuapp.com/?user=izaher18&theme=dark&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izaher18&layout=compact&theme=dark&hide=stars,issues)
+
+---
