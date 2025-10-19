@@ -6,7 +6,7 @@ I'm a Junior at Boston University, currently studying Computer Science.
 
 ## 🧰 Languages and Tools
 
-![Languages](https://skillicons.dev/icons?i=js,react,html,css,python,java,go,&perline=8)
+![Languages](https://skillicons.dev/icons?i=js,react,html,css,python,java,go,sql&perline=8)
 
 ---
 
