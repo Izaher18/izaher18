@@ -1,24 +1,19 @@
-# Ilias Zaher
+# 👋 Hi, I'm Ilias
 
-CS junior at **Boston University**. I build software in TypeScript, Python, and Go, and I am looking for **software engineering internships**.
+I'm a Junior at Boston University, currently studying Computer Science.
 
-[Autonoma](https://github.com/Izaher18/Autonoma) · [Faythe Foundation](https://faythe-foundation.vercel.app) · [izaher18@bu.edu](mailto:izaher18@bu.edu)
+---
 
-## Featured work
+## 🧰 Languages and Tools
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [Autonoma](https://github.com/Izaher18/Autonoma) | Modular framework for LLM agents with tool calling, memory, and multi-agent coordination | Python, pytest, CI |
-| [Faythe Foundation](https://github.com/Izaher18/FaytheFoundation) | Live site for a nonprofit foundation | HTML/CSS, [deployed](https://faythe-foundation.vercel.app) |
+![Languages](https://skillicons.dev/icons?i=js,react,html,css,python,java,go,sql&perline=8)
 
-I am currently building original, recruiter-facing projects in public — full-stack TypeScript next, then a backend-heavy service.
+---
 
-## Stack
+## 📊 GitHub Stats
 
-`TypeScript` `JavaScript` `Python` `Go` `Java` `SQL` `React` `HTML/CSS` `Git`
+  <!--![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahemedb&show_icons=true&theme=dark&hide=stars,issues) -->
+  ![izaher18's Streak](https://github-readme-streak-stats.herokuapp.com/?user=izaher18&theme=dark&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izaher18&layout=compact&theme=dark&hide=stars,issues)
 
-## Coursework that shows up in code
-
-I keep class repos public for my own reference. The work I want reviewed is in the table above, not homework folders.
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Izaher18&layout=compact&theme=transparent&hide_border=true&langs_count=8)
+---
