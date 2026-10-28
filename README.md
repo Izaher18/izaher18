@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a senior at **Boston University** studying **Computer Science**. I enjoy building full-stack web applications and interactive browser games, with a focus on clean, practical software. I'm currently exploring deeper into AI machine learning work and am open to **software engineering internships and new-grad roles**.
+I'm a senior at **Boston University** studying **Computer Science**. I enjoy building full-stack web applications and interactive browser games, with a focus on clean, practical software. I'm currently exploring AI and machine learning and am open to **software engineering/Full-Stack Developer new-grad roles**.
 
 ---
 
