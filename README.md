@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@bu.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ilias-zaher/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:izaher101@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=izaher18&style=for-the-badge&color=58A6FF&label=Profile+Views" />
 </p>
 
@@ -32,9 +32,11 @@ I'm a senior at **Boston University** studying **Computer Science**. I enjoy bui
 
 | Project | Description | Stack |
 |---|---|---|
+| [**Pulse**](https://github.com/Izaher18/pulse) | Uptime monitoring service with scheduled endpoint checks, incident tracking, an admin dashboard, and public status pages | Next.js, React, TypeScript, PostgreSQL, Prisma, Tailwind CSS |
+| [**Snapvent**](https://github.com/Izaher18/Snapvent) | Turns a single sentence into an event page with a short registration link for guests | React, TypeScript, Vite |
+| [**Autonoma**](https://github.com/Izaher18/Autonoma) | Modular framework for building LLM agents with tool calling, short- and long-term memory, and multi-agent coordination | Python, OpenAI and Anthropic APIs, ChromaDB, pytest |
 | [**Connect4**](https://github.com/izaher18/REPO-NAME) | Connect Four with local multiplayer and a computer opponent | JavaScript, HTML, CSS |
 | [**Snake**](https://github.com/izaher18/REPO-NAME) | Browser implementation of the classic arcade game | JavaScript, HTML, CSS |
-| [**Igfollows**](https://github.com/izaher18/REPO-NAME) | Script that identifies Instagram accounts that don't follow you back | JavaScript |
 
 ---
 
